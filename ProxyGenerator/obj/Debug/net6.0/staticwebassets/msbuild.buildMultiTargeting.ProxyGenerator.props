@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProxyGenerator.props" />
+</Project>
